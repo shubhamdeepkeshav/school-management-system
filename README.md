@@ -79,6 +79,8 @@ To build a web-based system that helps institutions manage student records effic
 
 ## 📸 Sample Output
 
+![Image](https://github.com/user-attachments/assets/64f370c3-b236-4243-9b69-42ec675d4d7a)
+
 > Student dashboard UI showing dynamic card-based student entries with Edit and Delete actions.
 
 ![Image](https://github.com/user-attachments/assets/226b6dbb-abda-4a4d-8fb7-a9127b2181bb)

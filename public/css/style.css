@@ -1,0 +1,46 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+  display: flex;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+nav a.active, nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  margin-left: 20px;
+}
+
+form {
+  margin: 20px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+
+ul {
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+li {
+  margin: 10px 0;
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 5px;
+}

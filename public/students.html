@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manage Students</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="students.html" class="active">Manage Students</a>
+    <a href="about.html">About</a>
+  </nav>
+
+  <h2>Student Management</h2>
+  <form id="studentForm">
+    <input type="text" id="studentName" placeholder="Student Name" required />
+    <input type="text" id="studentGrade" placeholder="Grade" required />
+    <button type="submit">Add Student</button>
+  </form>
+  <ul id="studentList"></ul>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
